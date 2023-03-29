@@ -2,7 +2,6 @@ import pygame
 from pygame import mixer
 from random import randint
 from math import sqrt,pow
-import time 
 #intialize pygame
 pygame.init()
 
